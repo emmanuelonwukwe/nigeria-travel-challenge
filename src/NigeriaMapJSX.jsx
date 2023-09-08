@@ -79,14 +79,12 @@ const NigeriaMapJSX = ({
         id="svg574"
         xmlSpace="preserve"
         fill="#7c7c7c"
-        height="813"
         stroke="#ffffff"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="2"
         version="1.2"
         viewBox="0 0 1000 813"
-        width="1000"
         xmlns="http://www.w3.org/2000/svg"
       >
         <g id="Background">

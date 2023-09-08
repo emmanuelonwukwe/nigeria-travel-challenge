@@ -24,10 +24,10 @@ const Home = () => {
           <button type="submit">Donate Now</button>
         </form>
       </div>
-      <h2>My Philippines Travel Level</h2>
+      <h2>My Nigeria Travel Level</h2>
       <div id="ezoic-pub-ad-placeholder-106"> </div>
       This simple web app helps you visualize how well-travelled you are in the
-      Philippines.
+      Nigeria.
       <br></br>
       <br></br>
       This project was inspired by almighty God and was built using ReactJS. You
@@ -39,8 +39,7 @@ const Home = () => {
             "https://github.com/emmanuelonwukwe/nigeria-travel-challenge",
           )
         }
-      >
-        here↗
+      > here↗
       </div>
       .<h2>How To Use</h2>
       The map is divided into the 36* Nigeria provinces. All you have to do is
@@ -105,54 +104,20 @@ const Home = () => {
       <br></br>
       <div
         className="link"
-        onClick={() => window.open("https://www.instagram.com/denzdelvillar")}
+        onClick={() => window.open("https://web.facebook.com/profile.php?id=100092967468832")}
       >
-        Instagram↗
+        Facebook↗
       </div>
       <br></br>
       <div
         className="link"
-        onClick={() => window.open("https://www.twitter.com/denzvryan")}
-      >
-        Twitter↗
-      </div>
-      <br></br>
-      <div
-        className="link"
-        onClick={() => window.open("https://www.linkedin.com/in/denzdelvillar")}
+        onClick={() => window.open("https://www.linkedin.com/in/emmanuel-onwukwe-4a732b279")}
       >
         LinkedIn↗
       </div>
       .<br></br>
       <br></br>
-      If you liked this project and want it to be accessible in the future,
-      please consider donating below. Thank you!
-      <br></br>
-      <br></br>
-      <div className="donate-button">
-        <form
-          action="https://www.paypal.com/donate"
-          method="post"
-          target="_top"
-        >
-          <input type="hidden" name="hosted_button_id" value="RP4T6EPM6GJ9A" />
-          <input
-            type="image"
-            src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
-            border="0"
-            name="submit"
-            title="PayPal - The safer, easier way to pay online!"
-            alt="Donate with PayPal button"
-          />
-          <img
-            alt=""
-            border="0"
-            src="https://www.paypal.com/en_PH/i/scr/pixel.gif"
-            width="1"
-            height="1"
-          />
-        </form>
-      </div>
+      If you liked this project, join me on github.
       <br></br>
       <br></br>
       <div id="ezoic-pub-ad-placeholder-102"> </div>

@@ -31,6 +31,17 @@ body {
   background-color: #9dc3fb;
 }
 
+svg#svg574{
+  width: 95vw;
+  height: "513";
+}
+
+@media screen and (min-width:650px) {
+  svg#svg574{
+    width: 50vw;
+  }
+}
+
 .Map {
   width: 100vw;
   margin: auto;
